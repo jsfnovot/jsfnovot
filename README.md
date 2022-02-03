@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Josef
+- 🌱 I’m currently learning Python and Linux @ Engeto Academy
+- 👀 I’m interested in server administration and web applications development
+- 📫 You can reach me on josef.novotnyy(at)gmail.com
